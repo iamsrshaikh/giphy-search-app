@@ -9,5 +9,5 @@ export const  ERROR_MESSAGES = {
 
   export const LOADING_MESSAGES = {
     initial: 'Loading GIFs...',
-    nextPage: 'Loading more GIFs...',
+    nextPage: 'Load more GIFs...',
   };
