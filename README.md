@@ -13,29 +13,29 @@ A modern React app to search and display trending or queried GIFs using the Giph
 
 ## 📁 Project Structure
 
-src/
-├── components/
-│   ├── GifCard/
-│   │   ├── GifCard.jsx
-│   │   └── GifCard.module.css
-│   ├── SearchBar/
-│   │   ├── SearchBar.jsx
-│   │   └── SearchBar.module.css
-│   └── LoadingSpinner/
-│       ├── LoadingSpinner.jsx
-│       └── LoadingSpinner.module.css
-│
-├── styles/
-│   └── colors.module.css
-│
-├── constants/
-│   └── messages.js
-│
-├── utilities/
-│   └── useGifs.js
-│
-├── App.jsx
-└── App.css
+- src/
+- ├── components/
+- │   ├── GifCard/
+- │   │   ├── GifCard.jsx
+- │   │   └── GifCard.module.css
+- │   ├── SearchBar/
+- │   │   ├── SearchBar.jsx
+- │   │   └── SearchBar.module.css
+- │   └── LoadingSpinner/
+- │       ├── LoadingSpinner.jsx
+- │       └── LoadingSpinner.module.css
+- │
+- ├── styles/
+- │   └── colors.module.css
+- │
+- ├── constants/
+- │   └── messages.js
+- │
+- ├── utilities/
+- │   └── useGifs.js
+- │
+- ├── App.jsx
+- └── App.css
 
 ## 🛠️ Getting Started
 
