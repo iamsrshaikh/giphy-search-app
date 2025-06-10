@@ -1,0 +1,12 @@
+:root {
+    --primary-color: #00ccff;
+    --primary-color-light: rgba(0, 204, 255, 0.3);
+    --primary-color-focus-ring: rgba(0, 204, 255, 0.2);
+    --primary-hover-color: #00b7e6;
+    --text-subtle: #666;
+    --border-color: #ddd;
+    --error-color: #ff3333;
+    --button-disabled: #ccc;
+    --shadow-light: rgba(0, 0, 0, 0.1);
+    --shadow-hover: rgba(0, 0, 0, 0.15);
+  }
